@@ -1,8 +1,5 @@
+
 {
-  "scripts": {
-    "lint": "next lint"
-  }
-}{
   "name": "assignment_2",
   "version": "0.1.0",
   "private": true,
